@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mmc</title>
+    <link>https://MengMeicong.github.io/posts/</link>
+    <description>Recent content in Posts on mmc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Mar 2025 21:33:48 +0800</lastBuildDate>
+    <atom:link href="https://MengMeicong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baby linzijun</title>
+      <link>https://MengMeicong.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 19 Mar 2025 21:33:48 +0800</pubDate>
+      <guid>https://MengMeicong.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/zijun.jpg&#34; alt=&#34;my dear, I love you, linzijun&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
